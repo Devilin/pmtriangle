@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pmtriangle/static/css/main.f855e6bc.css",
-    "main.js": "/pmtriangle/static/js/main.8c323c4b.js",
+    "main.js": "/pmtriangle/static/js/main.988b0711.js",
     "static/js/453.b8fb2a0f.chunk.js": "/pmtriangle/static/js/453.b8fb2a0f.chunk.js",
     "index.html": "/pmtriangle/index.html",
     "main.f855e6bc.css.map": "/pmtriangle/static/css/main.f855e6bc.css.map",
-    "main.8c323c4b.js.map": "/pmtriangle/static/js/main.8c323c4b.js.map",
+    "main.988b0711.js.map": "/pmtriangle/static/js/main.988b0711.js.map",
     "453.b8fb2a0f.chunk.js.map": "/pmtriangle/static/js/453.b8fb2a0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8c323c4b.js"
+    "static/js/main.988b0711.js"
   ]
 }
