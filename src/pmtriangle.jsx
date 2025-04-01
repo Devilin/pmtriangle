@@ -388,7 +388,11 @@ const ProjectTriangle = () => {
 
   return (
     <div style={containerStyle}>
-      <h2 style={titleStyle}>Project Management Triangle</h2>
+      <h1 style={titleStyle}>Project Management Triangle Tool</h1>
+      <p style={paragraphStyle}>
+        The Project Management Triangle (also called the Iron Triangle or Triple Constraint) illustrates the balance between 
+        Scope, Time, and Quality in project management. Adjust any constraint to see how it affects the others.
+      </p>
       <p style={paragraphStyle}>Drag any slider to adjust values. When one value changes, the other two will adjust accordingly.</p>
       
       <div style={{ position: 'relative', marginBottom: '32px' }}>
